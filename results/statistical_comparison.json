@@ -1,0 +1,10 @@
+{
+  "Model 1 Accuracy":0.90216,
+  "Model 2 Accuracy":0.9204,
+  "Model 1 - Model 2":-0.01824,
+  "ci_lower":-0.022361,
+  "ci_upper":-0.014039,
+  "Model 1 Only correct:":1302.0,
+  "Model 2 Only correct:":1758.0,
+  "mcnemar_pvalue":1.947356249e-16
+}

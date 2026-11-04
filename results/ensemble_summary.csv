@@ -1,0 +1,7 @@
+method,accuracy,evaluation
+Logistic Regression,0.90316,Full test
+Laya,0.9204,Full test
+Cascade,0.93648,Full test (exploratory)
+Weighted voting,0.93672,Full test (exploratory)
+Laya (stacking holdout),0.92144,Half test
+Stacking,0.9368,Half test (exploratory)
